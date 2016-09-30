@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Uint_4(布局与控件)</string>
+    <string name="action_settings">设置</string>
+
+    <array name="xueli">
+        <item>小学</item>
+        <item>中学</item>
+        <item>大学</item>
+        <item>硕士</item>
+        <item>博士</item>
+        <item>烈士</item>
+        <item>圣斗士</item>
+    </array>
+
+</resources>
